@@ -5,7 +5,7 @@ I manage 2 GitHub account [Deen24ID](https://github.com/deen24id) and [artidatai
 
 For the longest time, I have been wanting to change my GitHub account name. 
 I started my coding career as a data scientist.
-I picked up artidataio handle which originates from Bahasa Indonesian which translates to *"the meaning of data"*.
+I picked up artidataio handle which originates from Bahasa Indonesia which translates to *"the meaning of data"*.
 Throughout that period, I work on big data projects such as http://apps.artidata.io/sg-routing/. 
 My personal website also resembles the name http://artidata.io/.
 
