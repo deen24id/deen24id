@@ -18,4 +18,4 @@ However, as there are many projects associated to that account and things can ge
 I decided to do my future coding projects on a new account https://github.com/deen24id, while maintaining old project on the old account https://github.com/artidataio.
 The new name Deen24ID is using part of my name *Deen* and my favorite number *24*.
 
-Rest assured, there is still fire on me to code, automate and build.🔥
+Rest assured, there is still fire in me to code, automate and build.🔥
